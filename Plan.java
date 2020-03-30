@@ -1,4 +1,4 @@
-package Diet_Plan;
+
 
 
 import java.util.Scanner;
