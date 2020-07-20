@@ -16,27 +16,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdee98cb-bd3c-4893-8b4a-94fb87a0c935" name="Default Changelist" comment="测试">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/Collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/Arraylist_Student/ArraylistStudentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java_Exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/JavaSe_Code/API/API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/JavaSe_Code/ArraylistDemo/ArraylistDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/JavaSe_Code/Basic_Exercises/Basic_Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/JavaSe_Code/Classes_And_Interface/Classes_And_Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/JavaSe_Code/Classes_And_Object/Classes_And_Object.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/JavaSe_Code/Student_Management/Student_Management.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/JavaSe_Code/deBugDemo/deBugDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/JavaSe_Code/idea_test/idea_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Java_Exercise/Java_Exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fdee98cb-bd3c-4893-8b4a-94fb87a0c935" name="Default Changelist" comment="测试1">
+      <change afterPath="$PROJECT_DIR$/Collection/src/TreeSet/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/TreeSet/TreeSetDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +46,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aFxJv4C4GKwUu8l4sxPaEvMjhM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,26 +63,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="应用程序.ArraylistStudentDemo">
+  <component name="RunManager" selected="应用程序.TreeSetDemo">
     <configuration name="ArraylistStudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arraylist_Student.ArraylistStudentDemo" />
       <module name="Collection" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arraylist_Student.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateUtilsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date.DateUtilsDemo" />
-      <module name="API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,8 +116,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeSet.TreeSetDemo" />
+      <module name="Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TreeSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TreeSetDemo" />
         <item itemvalue="应用程序.ArraylistStudentDemo" />
         <item itemvalue="应用程序.StudentDemo" />
       </list>
@@ -211,50 +205,37 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="414" y="0" width="725" height="834" key="#ArraylistStudentDemo/0.0.1536.834@0.0.1536.834" timestamp="1595073731672" />
-    <state x="433" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586513188914">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="433" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586513188914" />
-    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1595068473999">
+    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1595242145608">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1595068473999" />
+    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1595242145608" />
     <state x="446" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594983575500">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="446" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1594983575500" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1586513130343">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586513130343" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1586513276744">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1586513276744" />
-    <state width="405" height="704" key="GridCell.Tab.0.bottom" timestamp="1595074590691">
+    <state width="296" height="677" key="GridCell.Tab.0.bottom" timestamp="1595087618516">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
-    <state width="405" height="704" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595074590691" />
-    <state width="405" height="704" key="GridCell.Tab.0.center" timestamp="1595074590691">
+    <state width="296" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595087618516" />
+    <state width="296" height="677" key="GridCell.Tab.0.center" timestamp="1595087618516">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
-    <state width="405" height="704" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595074590691" />
-    <state width="405" height="704" key="GridCell.Tab.0.left" timestamp="1595074590691">
+    <state width="296" height="677" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595087618516" />
+    <state width="296" height="677" key="GridCell.Tab.0.left" timestamp="1595087618516">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
-    <state width="405" height="704" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595074590691" />
-    <state width="405" height="704" key="GridCell.Tab.0.right" timestamp="1595074590691">
+    <state width="296" height="677" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595087618516" />
+    <state width="296" height="677" key="GridCell.Tab.0.right" timestamp="1595087618516">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
-    <state width="405" height="704" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595074590691" />
+    <state width="296" height="677" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595087618516" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1592881923567">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586510498898" />
     <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592881923567" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595073896956">
       <screen x="0" y="0" width="1536" height="834" />
