@@ -11,8 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdee98cb-bd3c-4893-8b4a-94fb87a0c935" name="Default Changelist" comment="测试1">
-      <change afterPath="$PROJECT_DIR$/Collection/src/HashMapDifferent/HashMapDifferent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/HashMapDifferent/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/DouDIZhu/DouDiZhuDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/DouDIZhu/DouDiZhuDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/HashMapInput/HashMapInputDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/rebase__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在rebase之前未提交更改_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,9 +36,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aFxJv4C4GKwUu8l4sxPaEvMjhM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="新增" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,13 +51,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="应用程序.HashMapDifferent">
-    <configuration name="ArgsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KeBianShuZu.ArgsDemo" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DouDIZhu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.DouDiZhuDemo1">
+    <configuration name="DouDiZhuDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DouDIZhu.DouDiZhuDemo" />
       <module name="Collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KeBianShuZu.*" />
+          <option name="PATTERN" value="DouDIZhu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GemericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GemericDemo.GemericDemo" />
+    <configuration name="DouDiZhuDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DouDIZhu.DouDiZhuDemo1" />
       <module name="Collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GemericDemo.*" />
+          <option name="PATTERN" value="DouDIZhu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.HashMapDifferent" />
-        <item itemvalue="应用程序.HashMapDemo" />
-        <item itemvalue="应用程序.ArgsDemo" />
-        <item itemvalue="应用程序.GemericDemo" />
-        <item itemvalue="应用程序.TreeSetStudentDemo" />
+        <item itemvalue="应用程序.DouDiZhuDemo1" />
+        <item itemvalue="应用程序.DouDiZhuDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595500414587</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="HashMapDifferent重新构造让Student让集合里面元素不重复">
+      <created>1595562113295</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1595562113295</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -226,7 +236,8 @@
     <MESSAGE value="泛型Demo" />
     <MESSAGE value="可变参数！！！！！！！！！！！！！！！！！！！" />
     <MESSAGE value="HashMapDemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMapDemo" />
+    <MESSAGE value="HashMapDifferent重新构造让Student让集合里面元素不重复" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMapDifferent重新构造让Student让集合里面元素不重复" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="0" width="725" height="834" key="#ArraylistStudentDemo" timestamp="1595073731672">
@@ -248,38 +259,38 @@
       <screen x="1920" y="0" width="1170" height="878" />
     </state>
     <state x="1920" y="0" key="#项目结构/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595342613703" />
-    <state width="584" height="810" key="GridCell.Tab.0.bottom" timestamp="1595561947889">
+    <state width="1077" height="677" key="GridCell.Tab.0.bottom" timestamp="1595933666913">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="584" height="810" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595561947889" />
+    <state width="1077" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595933666913" />
     <state width="369" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
-    <state width="767" height="766" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595395623064" />
-    <state width="584" height="810" key="GridCell.Tab.0.center" timestamp="1595561947889">
+    <state width="256" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595862408004" />
+    <state width="1077" height="677" key="GridCell.Tab.0.center" timestamp="1595933666913">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="584" height="810" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595561947889" />
+    <state width="1077" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595933666913" />
     <state width="369" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
-    <state width="767" height="766" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595395623064" />
-    <state width="584" height="810" key="GridCell.Tab.0.left" timestamp="1595561947885">
+    <state width="256" height="677" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595862408003" />
+    <state width="1077" height="677" key="GridCell.Tab.0.left" timestamp="1595933666913">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="584" height="810" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595561947885" />
+    <state width="1077" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595933666912" />
     <state width="369" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
-    <state width="767" height="766" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595395623064" />
-    <state width="584" height="810" key="GridCell.Tab.0.right" timestamp="1595561947889">
+    <state width="256" height="677" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595862408003" />
+    <state width="1077" height="677" key="GridCell.Tab.0.right" timestamp="1595933666913">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="584" height="810" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595561947889" />
+    <state width="1077" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595933666913" />
     <state width="369" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
-    <state width="767" height="766" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595395623064" />
+    <state width="256" height="677" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595862408003" />
     <state width="1483" height="249" key="GridCell.Tab.1.bottom" timestamp="1595518695794">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -296,14 +307,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1483" height="249" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595518695794" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1592881923567">
+    <state x="0" y="0" key="SettingsEditor" timestamp="1595683985102">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592881923567" />
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1595500420405">
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1595683985102" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1595562119150">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595500420405" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595562119150" />
     <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595244099879" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595073896956">
       <screen x="0" y="0" width="1536" height="834" />
