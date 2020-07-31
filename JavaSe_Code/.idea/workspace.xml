@@ -11,9 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdee98cb-bd3c-4893-8b4a-94fb87a0c935" name="Default Changelist" comment="测试1">
-      <change afterPath="$PROJECT_DIR$/IO/src/MyDIGui/MyDeGuiDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/MyDIGui/MyDiGuiDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/MyFileDiGui/MyFileDiGuiDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/2020-07-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/2020-07-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/CopyJpgDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/CopyZipDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/FileInputStreamDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/FileInputStreamDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/fis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FileOutputStream/FileOutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/FileOutputStream/fos.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +38,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aFxJv4C4GKwUu8l4sxPaEvMjhM" />
@@ -57,13 +77,13 @@
       <recent name="DouDIZhu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MyFileDiGuiDemo">
-    <configuration name="DouDiZhuDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DouDIZhu.DouDiZhuDemo1" />
-      <module name="Collection" />
+  <component name="RunManager" selected="应用程序.CopyZipDemo">
+    <configuration name="CopyJpgDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIleInputStream.CopyJpgDemo" />
+      <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DouDIZhu.*" />
+          <option name="PATTERN" value="FIleInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDeGuiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyDIGui.MyDeGuiDemo" />
+    <configuration name="CopyZipDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIleInputStream.CopyZipDemo" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyDIGui.*" />
+          <option name="PATTERN" value="FIleInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDiGuiDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyDIGui.MyDiGuiDemo1" />
+    <configuration name="FileInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIleInputStream.FileInputStreamDemo" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyDIGui.*" />
+          <option name="PATTERN" value="FIleInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFile.MyFileDemo" />
+    <configuration name="FileInputStreamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIleInputStream.FileInputStreamDemo1" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyFile.*" />
+          <option name="PATTERN" value="FIleInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFileDiGuiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFileDiGui.MyFileDiGuiDemo" />
+    <configuration name="FileInputStreamDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIleInputStream.FileInputStreamDemo2" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyFileDiGui.*" />
+          <option name="PATTERN" value="FIleInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MyFileDiGuiDemo" />
-        <item itemvalue="应用程序.MyDiGuiDemo1" />
-        <item itemvalue="应用程序.MyDeGuiDemo" />
-        <item itemvalue="应用程序.MyFileDemo" />
-        <item itemvalue="应用程序.DouDiZhuDemo1" />
+        <item itemvalue="应用程序.CopyZipDemo" />
+        <item itemvalue="应用程序.CopyJpgDemo" />
+        <item itemvalue="应用程序.FileInputStreamDemo2" />
+        <item itemvalue="应用程序.FileInputStreamDemo1" />
+        <item itemvalue="应用程序.FileInputStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595993624849</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="递归调用">
+      <created>1596076217137</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596076217137</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -259,7 +286,8 @@
     <MESSAGE value="HashMapDifferent重新构造让Student让集合里面元素不重复" />
     <MESSAGE value="集合斗地主项目" />
     <MESSAGE value="MyFile" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyFile" />
+    <MESSAGE value="递归调用" />
+    <option name="LAST_COMMIT_MESSAGE" value="递归调用" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="0" width="725" height="834" key="#ArraylistStudentDemo" timestamp="1595073731672">
@@ -281,36 +309,36 @@
       <screen x="1920" y="0" width="1170" height="878" />
     </state>
     <state x="1920" y="0" key="#项目结构/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595342613703" />
-    <state width="1483" height="249" key="GridCell.Tab.0.bottom" timestamp="1596038964687">
+    <state width="600" height="677" key="GridCell.Tab.0.bottom" timestamp="1596178043575">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="1483" height="249" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964687" />
+    <state width="600" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178043575" />
     <state width="369" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
     <state width="218" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596017676905" />
-    <state width="1483" height="249" key="GridCell.Tab.0.center" timestamp="1596038964687">
+    <state width="600" height="677" key="GridCell.Tab.0.center" timestamp="1596178043575">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="1483" height="249" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964687" />
+    <state width="600" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178043575" />
     <state width="369" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
     <state width="218" height="677" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596017676905" />
-    <state width="1483" height="249" key="GridCell.Tab.0.left" timestamp="1596038964686">
+    <state width="600" height="677" key="GridCell.Tab.0.left" timestamp="1596178043575">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="1483" height="249" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964686" />
+    <state width="600" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178043575" />
     <state width="369" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
     <state width="218" height="677" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596017676905" />
-    <state width="1483" height="249" key="GridCell.Tab.0.right" timestamp="1596038964687">
+    <state width="600" height="677" key="GridCell.Tab.0.right" timestamp="1596178043575">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="1483" height="249" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964687" />
+    <state width="600" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178043575" />
     <state width="369" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
     <state width="218" height="677" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596017676905" />
     <state width="1483" height="249" key="GridCell.Tab.1.bottom" timestamp="1596038964687">
@@ -329,14 +357,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1483" height="249" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964687" />
+    <state x="413" y="50" key="RollbackChangesDialog" timestamp="1596167603789">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="413" y="50" key="RollbackChangesDialog/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596167603789" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1595683985102">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1595683985102" />
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1595993631922">
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1596076226448">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595993631922" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596076226448" />
     <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595244099879" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595073896956">
       <screen x="0" y="0" width="1536" height="834" />
