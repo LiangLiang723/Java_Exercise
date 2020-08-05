@@ -11,9 +11,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdee98cb-bd3c-4893-8b4a-94fb87a0c935" name="Default Changelist" comment="测试1">
-      <change afterPath="$PROJECT_DIR$/IO/src/CopyAvi/CopyAviDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO/src/CopyAvi/VID_20170831_150832.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/ArrayAndFile/ArrayToFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/ArrayAndFile/FileToArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/ArrayAndFile/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/ArrayAndFile/学生目录.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/ArrayAndFileNew/ArrayToFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/ArrayAndFileNew/FileToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/ArrayAndFileNew/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/ArrayAndFileNew/学生目录.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/CopyAvi/CopyMp4Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/CopyFolder/CopyFolderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/Student/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/src/Student/学生成绩.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/CopyAvi/VID_20170831_150832.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/FIleInputStream/2020-07-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/FIleInputStream/2020-07-26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/FIleInputStream/FileInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IO/src/FIleInputStream/FileInputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/FIleInputStream/fis.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IO/src/FileOutputStream/fos.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +63,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aFxJv4C4GKwUu8l4sxPaEvMjhM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="新增" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,13 +84,13 @@
       <recent name="DouDIZhu" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CopyAviDemo">
-    <configuration name="CopyAviDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CopyAvi.CopyAviDemo" />
+  <component name="RunManager" selected="应用程序.ObjectStream">
+    <configuration name="CopyFolderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyFolder.CopyFolderDemo" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CopyAvi.*" />
+          <option name="PATTERN" value="CopyFolder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyJpgDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FIleInputStream.CopyJpgDemo" />
+    <configuration name="CopyFolderDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyFolder.CopyFolderDemo1" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FIleInputStream.*" />
+          <option name="PATTERN" value="CopyFolder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyZipDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FIleInputStream.CopyZipDemo" />
+    <configuration name="MyFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFile.MyFileDemo" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FIleInputStream.*" />
+          <option name="PATTERN" value="MyFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FIleInputStream.FileInputStreamDemo1" />
+    <configuration name="ObjectStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectStream.ObjectStream" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FIleInputStream.*" />
+          <option name="PATTERN" value="ObjectStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputStreamDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FIleInputStream.FileInputStreamDemo2" />
+    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student.StudentDemo" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FIleInputStream.*" />
+          <option name="PATTERN" value="Student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +152,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.CopyAviDemo" />
-        <item itemvalue="应用程序.CopyZipDemo" />
-        <item itemvalue="应用程序.CopyJpgDemo" />
-        <item itemvalue="应用程序.FileInputStreamDemo2" />
-        <item itemvalue="应用程序.FileInputStreamDemo1" />
+        <item itemvalue="应用程序.ObjectStream" />
+        <item itemvalue="应用程序.CopyFolderDemo1" />
+        <item itemvalue="应用程序.CopyFolderDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596178257972</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="通过缓冲流复制视频">
+      <created>1596250949834</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596250949834</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -287,23 +307,31 @@
     <MESSAGE value="MyFile" />
     <MESSAGE value="递归调用" />
     <MESSAGE value="文件写入文件复制图片复制Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="文件写入文件复制图片复制Demo" />
+    <MESSAGE value="通过缓冲流复制视频" />
+    <MESSAGE value="流操作 对象储存到磁盘" />
+    <MESSAGE value="11" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="0" width="725" height="834" key="#ArraylistStudentDemo" timestamp="1595073731672">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="414" y="0" width="725" height="834" key="#ArraylistStudentDemo/0.0.1536.834@0.0.1536.834" timestamp="1595073731672" />
-    <state x="519" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596202279709">
+    <state x="424" y="82" key="#HTTP代理" timestamp="1596460369697">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="519" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1596202279709" />
-    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1595560964828">
+    <state x="424" y="82" key="#HTTP代理/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596460369697" />
+    <state x="519" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596296287493">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="519" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1596296287493" />
+    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1596596390277">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595304812811" />
-    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595560964828" />
-    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1595242145608" />
+    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596443928299" />
+    <state x="527" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1596596390277" />
     <state x="446" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596017502931">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -317,75 +345,76 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178314042" />
-    <state width="351" height="677" key="GridCell.Tab.0.bottom" timestamp="1596213788651">
+    <state width="243" height="443" key="GridCell.Tab.0.bottom" timestamp="1596597504298">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="281" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178313988" />
+    <state width="578" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596470925884" />
     <state width="369" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
-    <state width="351" height="677" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596213788651" />
-    <state width="351" height="677" key="GridCell.Tab.0.center" timestamp="1596213788651">
+    <state width="243" height="443" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596597504298" />
+    <state width="243" height="443" key="GridCell.Tab.0.center" timestamp="1596597504298">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="281" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178313988" />
+    <state width="578" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596470925884" />
     <state width="369" height="677" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
-    <state width="351" height="677" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596213788651" />
-    <state width="351" height="677" key="GridCell.Tab.0.left" timestamp="1596213788650">
+    <state width="243" height="443" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596597504298" />
+    <state width="243" height="443" key="GridCell.Tab.0.left" timestamp="1596597504297">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="281" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178313988" />
+    <state width="578" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596470925884" />
     <state width="369" height="677" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
-    <state width="351" height="677" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596213788650" />
-    <state width="351" height="677" key="GridCell.Tab.0.right" timestamp="1596213788651">
+    <state width="243" height="443" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596597504297" />
+    <state width="243" height="443" key="GridCell.Tab.0.right" timestamp="1596597504298">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="299" height="667" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592651250695" />
     <state width="355" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1024.768@0.0.1536.834" timestamp="1595305473402" />
-    <state width="281" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178313988" />
+    <state width="578" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596470925884" />
     <state width="369" height="677" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.768.1024@0.0.1536.834" timestamp="1595300327357" />
-    <state width="351" height="677" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596213788651" />
-    <state width="1483" height="249" key="GridCell.Tab.1.bottom" timestamp="1596038964687">
+    <state width="243" height="443" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596597504298" />
+    <state width="1483" height="217" key="GridCell.Tab.1.bottom" timestamp="1596470925878">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1483" height="249" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964687" />
-    <state width="1483" height="249" key="GridCell.Tab.1.center" timestamp="1596038964687">
+    <state width="1483" height="217" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596470925878" />
+    <state width="1483" height="217" key="GridCell.Tab.1.center" timestamp="1596470925878">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1483" height="249" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964687" />
-    <state width="1483" height="249" key="GridCell.Tab.1.left" timestamp="1596038964687">
+    <state width="1483" height="217" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596470925878" />
+    <state width="1483" height="217" key="GridCell.Tab.1.left" timestamp="1596470925878">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1483" height="249" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964687" />
-    <state width="1483" height="249" key="GridCell.Tab.1.right" timestamp="1596038964687">
+    <state width="1483" height="217" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596470925878" />
+    <state width="1483" height="217" key="GridCell.Tab.1.right" timestamp="1596470925878">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1483" height="249" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596038964687" />
+    <state width="1483" height="217" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596470925878" />
     <state x="413" y="50" key="RollbackChangesDialog" timestamp="1596167603789">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="413" y="50" key="RollbackChangesDialog/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596167603789" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1595683985102">
+    <state x="14" y="0" key="SettingsEditor" timestamp="1596462539051">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1595683985102" />
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1596178266425">
+    <state x="14" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596462539051" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596368919414" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2" timestamp="1596597543803">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596178266425" />
-    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595244099879" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596250960983" />
+    <state x="261" y="85" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596597543803" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595073896956">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1595073896956" />
-    <state x="543" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595075955075">
+    <state x="543" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596598160417">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="543" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1595075955075" />
+    <state x="543" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1596598160417" />
     <state x="-186" y="842" width="757" height="813" key="dock-window-1" timestamp="1595303877301">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -399,9 +428,21 @@
     </state>
     <state x="188" y="0" width="1168" height="834" key="new project wizard/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1595936685127" />
     <state x="188" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1595067779224" />
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1596201448541">
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1596596143100">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1596201448541" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.834/1920.0.1170.878@0.0.1536.834" timestamp="1596466405136" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1596596143100" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IO/src/CopyFolder/CopyFolderDemo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
