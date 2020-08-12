@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Classes_And_Object/Classes_And_Object.iml" filepath="$PROJECT_DIR$/Classes_And_Object/Classes_And_Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Network_Programming/Network_Programming.iml" filepath="$PROJECT_DIR$/Network_Programming/Network_Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Student_Management/Student_Management.iml" filepath="$PROJECT_DIR$/Student_Management/Student_Management.iml" />
       <module fileurl="file://$PROJECT_DIR$/deBugDemo/deBugDemo.iml" filepath="$PROJECT_DIR$/deBugDemo/deBugDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea_test/idea_test.iml" filepath="$PROJECT_DIR$/idea_test/idea_test.iml" />
